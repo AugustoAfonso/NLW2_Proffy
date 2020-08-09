@@ -1,3 +1,3 @@
 # NLW-2-Proffy
-My version of the Proffy project being developed during Rockeseat's Next Level Week #2 event.
-Proffy is a online tool where students and private teachers can connect to share their educacional journey.
+My version of the Proffy project developed during @Rockeseat Next Level Week #2 event.Proffy is an plataform where student can find and connect to teachers for private lessons.
+Made with Node.Js, React.Js and React Native.
